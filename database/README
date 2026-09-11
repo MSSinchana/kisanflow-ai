@@ -1,0 +1,5 @@
+Database setup:
+1. Run schema.sql
+2. Run seed_sample.sql
+
+For demo-quality AI behavior, expand farmers to 30+ records and historical queue data to 100+ rows.
